@@ -25,7 +25,7 @@
 <p align="left">
   I'm a Fullstack Web Developer from Taybeh, Israel 🇮🇱 <br><br>
   - 🔭 I’m currently working on modern fullstack projects using React, Express, and MongoDB.<br>
-  - 🎓 Studying Software Engineering at Al Qasimi College + Fullstack Certificate at Coding Academy.<br>
+  - 🎓 Graduate of Software Engineering at Al Qasimi College + Fullstack Certificate at Coding Academy.<br>
   - 📚 Currently learning advanced Firebase integrations, CI/CD, and cloud functions.<br>
   - ⚡ Fun fact: I also create coding content on YouTube as @agentCsharp!
 </p>
