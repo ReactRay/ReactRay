@@ -1,10 +1,8 @@
----
-
 <div align="center">
-  <img height="250" src="https://res.cloudinary.com/danlxus36/image/upload/v1743214207/i29jzghqyiyhkf6gyfsv.png" />
+  <img   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cool dev gif" />
 </div>
 
----
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ReactRay.ReactRay&" />
@@ -13,8 +11,6 @@
 <p align="center">
   💻 Check out my work at 👉 <a href="https://www.radwan-mansur.com" target="_blank">www.radwan-mansur.com</a>
 </p>
-
-
 
 # 💫 About Me:
 - 🔭 I’m currently working on modern fullstack projects using React, Express, and MongoDB.<br>
@@ -58,13 +54,18 @@
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="code animation gif" />
+</div>
+
+---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=reactray&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=reactray&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reactray&theme=dark&layout=compact)
 
-
+---
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
