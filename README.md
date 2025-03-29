@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="350" src="https://res.cloudinary.com/danlxus36/image/upload/v1743214207/i29jzghqyiyhkf6gyfsv.png" />
-</div>
+
 
 ###
 
@@ -33,7 +31,9 @@
 </p>
 
 ###
-
+<div align="center">
+  <img height="250" src="https://res.cloudinary.com/danlxus36/image/upload/v1743214207/i29jzghqyiyhkf6gyfsv.png" />
+</div>
 <h3 align="left">🛠 Skills & Tools</h3>
 
 <div align="left">
